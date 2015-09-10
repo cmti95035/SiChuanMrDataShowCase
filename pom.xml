@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
     <groupId>com.howtodoinjava.demo</groupId>
-    <artifactId>springmvcexample</artifactId>
+    <artifactId>SiChuanMrDataShowCase</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>springmvcexample Maven Webapp</name>
+    <name>SiChuan MrData Show Case Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
      
@@ -60,6 +60,6 @@
     </dependencies>
      
     <build>
-        <finalName>springmvcexample</finalName>
+        <finalName>SiChuanMrDataShowCase</finalName>
     </build>
 </project>

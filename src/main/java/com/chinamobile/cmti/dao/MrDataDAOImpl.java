@@ -11,6 +11,7 @@ public class MrDataDAOImpl implements MrDataDAO{
 
         mrs.add(new MrDataVO("四川", "成都", "三环"));
         mrs.add(new MrDataVO("四川", "绵阳", "环城"));
+        mrs.add(new MrDataVO("广东", "广州", "机场高速"));
 
         return mrs;
     }
